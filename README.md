@@ -1,8 +1,11 @@
-## Olá, eu sou Rafa. 🎨🤍
-▪️⭐ Sou estudante da escola José Marcelino.
+▪️## Olá, eu sou Rafa. 🎨🤍
 
-▪️⭐ Estou no Github para estudar as aulas de programação da plataforma Alura.
+▪️🤍 Sou estudante da escola José Marcelino.
 
-▪️⭐ Estudar as aulas da plataforma Alura.
+▪️🤍 Estou no Github para estudar as aulas de programação da plataforma Alura.
 
-▪️⭐ Programar Scratch e JavaScript.
+▪️🤍 Estudar as aulas da plataforma Alura.
+
+▪️🤍 Programar Scratch e JavaScript.
+
+![](https://media.tenor.com/Rerf1O4ERJMAAAAi/cookie-run.gif)
